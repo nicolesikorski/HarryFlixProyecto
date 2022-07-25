@@ -1,0 +1,12 @@
+.entrevistas {
+    display: flex;
+    flex-direction: row;
+
+}
+
+
+
+ a:hover{
+    color: black;
+    
+}
